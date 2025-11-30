@@ -1,16 +1,49 @@
-## Hi there 👋
+### 👋 Hi, I'm NyongNyong (nyongdev0310)
+**C# Desktop Application Developer | Data Processing & Automation Specialist**
 
-<!--
-**nyongdev0310/nyongdev0310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build high‑performance Windows utilities and automation tools that help clients process data, convert files, parse logs, and streamline repetitive workflows.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I Do
+- 🖥️ **C# / .NET Windows desktop tool development**
+- 🔄 **Automation utilities**  
+  (batch file processing, renaming tools, text/CSV cleanup, repetitive workflow automation)
+- 📊 **Data conversion & parsing**  
+  - CSV → Excel / Excel → CSV  
+  - JSON ↔ CSV  
+  - Log file analyzers  
+  - Custom data validators
+- 🛠️ **Legacy system maintenance**  
+  Delphi, WinForms, old desktop apps, data migration
+
+---
+
+## 🧰 Tech Stack
+**Languages:**  
+C#, Delphi, SQL, Python(Automation)
+
+**Frameworks:**  
+.NET, WinForms, WPF
+
+**Tools & Skills:**  
+Regex, File IO automation, JSON/XML handlers, CSV processors, UI tool development, Data cleaning
+
+---
+
+## 📁 Featured Projects
+### 🔹 CSV to Excel Converter  
+Automated converter with data cleanup, error detection, and structured output.
+
+### 🔹 Log Parser & Analyzer  
+Categorizes logs, extracts errors/warnings, timestamps sorting, exports to CSV/Excel.
+
+### 🔹 File Automation Utility  
+Batch rename, folder sorting, duplicate finder, file categorization.
+
+👉 *More projects and demos will be uploaded soon!*
+
+---
+
+## 📬 Contact
+Feel free to reach out for collaboration or freelance projects.
